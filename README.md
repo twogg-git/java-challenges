@@ -1,2 +1,2 @@
 # java-challenges
-Some coding challenges resolved, just for fun... (~˘▾˘)~
+Some coding challenges resolved, just for fun... ᕙ(⇀‸↼‶)ᕗ
